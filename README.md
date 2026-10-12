@@ -60,13 +60,13 @@ B.Tech Information Technology student at **PSG College of Technology**. I build 
 
 Secure cloud file-sharing application with JWT authentication and AES-256 encryption. Built with Node.js, Express.js, MongoDB, and AWS S3.
 
-### Personal Portfolio Website
+### [Personal Portfolio Website](https://github.com/srikesav09/Portfolio)
 
-Responsive portfolio built with React.js and Tailwind CSS. [Browse my GitHub repositories](https://github.com/srikesav09?tab=repositories).
+Responsive portfolio built with React.js and Tailwind CSS.
 
-### Campus Lost & Found Portal
+### [Campus Lost & Found Portal](https://github.com/srikesav09/campus-lost-found)
 
-Web portal for reporting and recovering lost items on campus, built with HTML, CSS, and JavaScript. [Browse my GitHub repositories](https://github.com/srikesav09?tab=repositories).
+Web portal for reporting and recovering lost items on campus, built with HTML, CSS, and JavaScript.
 
 ## LeetCode
 
@@ -84,7 +84,7 @@ I use LeetCode to practice data structures and algorithms, and have solved **100
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=srikesav09&theme=github-green-purple&hide_border=true)](https://git.io/streak-stats)
 
-<img src="https://ghchart.rshah.org/2ea44e/srikesav09" alt="GitHub contribution calendar for srikesav09" />
+<img width="100%" src="https://gitcolors.vercel.app/api/svg?username=srikesav09&preset=github&theme=light&emptyColor=filled&animate=false" alt="GitHub contribution calendar for srikesav09" />
 
 <a href="https://github.com/srikesav09">View my GitHub profile</a>
 
