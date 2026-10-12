@@ -1,64 +1,82 @@
 <div align="center">
 
-# Srikesav M
+# 🏴‍☠️ 𝑺𝑹𝑰𝑲𝑬𝑺𝑨𝑽 𝑴
 
-### Information Technology Undergraduate | Software Development | Cloud
+### Software Development · Web Applications · Cloud
 
-Building practical web applications with an interest in secure systems, backend development, and cloud technologies.
+Information Technology undergraduate building practical web applications, with an interest in backend engineering, secure systems, and cloud technologies.
 
-[![GitHub](https://img.shields.io/badge/GitHub-srikesav09-181717?logo=github)](https://github.com/srikesav09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikesav-m-53446b324)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:srikesav77@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-srikesav09-181717?style=for-the-badge&logo=github)](https://github.com/srikesav09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srikesav-m-53446b324)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/srikesav_sk/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikesav77@gmail.com)
+
+<p><a href="mailto:srikesav77@gmail.com">srikesav77@gmail.com</a> · <a href="https://www.linkedin.com/in/srikesav-m-53446b324">LinkedIn profile</a></p>
+
+**Tiruppur, Tamil Nadu, India**
 
 </div>
 
 ---
 
-## Profile
+## About
 
-B.Tech Information Technology student at **PSG College of Technology, Coimbatore**, with a current CGPA of **8.20**. I work across frontend and backend development, and have built projects involving secure file sharing, cloud storage, and campus utilities. Based in **Tiruppur, Tamil Nadu, India**.
+B.Tech Information Technology student at **PSG College of Technology**. I build responsive web applications and full-stack projects, from user-facing interfaces to backend services and cloud storage integrations.
 
-## Technical skills
+## Skills
 
-| Area | Technologies |
-| --- | --- |
-| Programming | Java, JavaScript, Python |
-| Frontend | HTML5, CSS3, React.js, Tailwind CSS |
-| Backend | Node.js, Express.js |
-| Databases | MongoDB, MySQL |
-| Cloud & deployment | AWS S3, EC2, IAM, Vercel, Render |
-| Tools | Git, GitHub |
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud, deployment & tools**
+
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Selected projects
 
 ### [SecureShare](https://github.com/srikesav09/SecureShare)
 
-Secure cloud file-sharing platform with JWT authentication and AES-256 encryption. Uses Node.js, Express.js, MongoDB, and AWS S3.
+Secure cloud file-sharing application with JWT authentication and AES-256 encryption. Built with Node.js, Express.js, MongoDB, and AWS S3.
 
 ### Personal Portfolio Website
 
-Responsive portfolio built with React.js and Tailwind CSS.
+Responsive portfolio built with React.js and Tailwind CSS. [Browse my GitHub repositories](https://github.com/srikesav09?tab=repositories).
 
 ### Campus Lost & Found Portal
 
-Web portal for reporting and recovering lost items on campus, built with HTML, CSS, and JavaScript.
+Web portal for reporting and recovering lost items on campus, built with HTML, CSS, and JavaScript. [Browse my GitHub repositories](https://github.com/srikesav09?tab=repositories).
 
-## Leadership & achievements
+## LeetCode
 
-- Placement Representative, Department of Information Technology, PSG College of Technology.
-- Solved **100+ problems on LeetCode**.
-- Built **10+ academic and personal software projects**.
+I use LeetCode to practice data structures and algorithms, and have solved **100+ problems**.
 
-## Certifications
+<div align="center">
 
-- **Programming in Java** — NPTEL Elite, **94%**
-- **AWS Cloud Practitioner Essentials** — AWS Training and Certifications
-- **Responsive Web Design** — freeCodeCamp
+[![LeetCode stats](https://leetcard.jacoblin.cool/srikesav_sk?theme=forest&font=Nunito&hide=ranking)](https://leetcode.com/u/srikesav_sk/)
 
-## Education
-
-- **PSG College of Technology, Coimbatore** — B.Tech, Information Technology · CGPA: **8.20**
-- **Green Garden Matric Hr. Sec. School, Erode** — Class XII, Tamil Nadu State Board · **564/600** · Cutoff: **197**
+</div>
 
 ## GitHub activity
 
@@ -66,13 +84,15 @@ Web portal for reporting and recovering lost items on campus, built with HTML, C
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=srikesav09&theme=github-green-purple&hide_border=true)](https://git.io/streak-stats)
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=srikesav09&theme=github-compact&hide_border=true&area=true)
+<img src="https://ghchart.rshah.org/2ea44e/srikesav09" alt="GitHub contribution calendar for srikesav09" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srikesav09&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics for srikesav09" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikesav09&layout=compact&hide_border=true&theme=default" alt="Most used languages for srikesav09" />
+<a href="https://github.com/srikesav09">View my GitHub profile</a>
 
-<br />
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=srikesav09&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics for srikesav09" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikesav09&layout=compact&hide_border=true&theme=default" alt="Most used languages for srikesav09" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=srikesav09&label=Profile%20views&color=2da44e&style=flat" alt="Profile views for srikesav09" />
+<img src="https://viewcounter.live/srikesav09?label=Profile%20Views&bg_color=2da44e&text_color=FFFFFF&rounded=true" alt="GitHub profile views for srikesav09" />
 
 </div>
