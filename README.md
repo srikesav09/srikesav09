@@ -70,7 +70,7 @@ Web portal for reporting and recovering lost items on campus, built with HTML, C
 
 ## LeetCode
 
-I use LeetCode to practice data structures and algorithms, and have solved **100+ problems**.
+I use LeetCode to practice data structures and algorithms, and have solved **130+ problems**.
 
 <div align="center">
 
@@ -95,4 +95,6 @@ I use LeetCode to practice data structures and algorithms, and have solved **100
 
 <img src="https://viewcounter.live/srikesav09?label=Profile%20Views&bg_color=2da44e&text_color=FFFFFF&rounded=true" alt="GitHub profile views for srikesav09" />
 
+### Always open to collaborate and learn.
 </div>
+
